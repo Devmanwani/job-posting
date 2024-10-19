@@ -1,3 +1,7 @@
+**Live Link:**
+
+*    (https://job-posting-frontend-three.vercel.app/) points to the deployed version of the frontend. You'll need to follow these instructions to run the project locally on your machine.
+    
 
 
 **Prerequisites:**
@@ -59,9 +63,4 @@
 *   Remember to update the .env file with your own email address and password details for Nodemailer to function correctly.
     
 
-**Live Link:**
 
-*   The live link you provided (https://job-posting-frontend-three.vercel.app/) points to the deployed version of the frontend. You'll need to follow these instructions to run the project locally on your machine.
-    
-
-I hope this comprehensive guide helps you get started with the job-posting project! If you encounter any issues, feel free to ask for further assistance.
